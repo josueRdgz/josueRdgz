@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josueRdgz&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:josuerdgz.ramirez@gmail.com)
+- **Email:** [josuerdgz.ramirez@gmail.com](mailto:josuerdgz.ramirez@gmail.com)
 
 ## 🤝 Let's Connect
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
