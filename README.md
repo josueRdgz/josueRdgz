@@ -46,10 +46,9 @@ Docker · Git · Linux · VS Code · CI/CD
 ---
 
 ## 📈 GitHub Analytics
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=josueRdgz&show_icons=true&theme=transparent)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josueRdgz&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josueRdgz&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josueRdgz&layout=compact&theme=transparent)
 
 ---
 
