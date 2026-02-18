@@ -1,34 +1,69 @@
-# Hi there, I'm Josue Rodriguez 👋
+# Josue Rodriguez
+### Computer Scientist | AI Engineer | Full-Stack Developer
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in AI, open-source projects, and continuous learning. Here's a bit more about me:
+I design and build scalable systems combining Artificial Intelligence, data engineering, and enterprise software architecture.  
 
-## 🔭 What I'm Currently Working On
-- Open BI 
-- Contributing to open-source projects.
-- Experimenting with new technologies and tools.
-
-## 🌱 What I'm Learning
-- Deepening my knowledge of Open BI and Odoo.
-- Exploring with AI libraries
-- Learning more about cloud services and DevOps practices.
-
-## 💻 Technologies & Tools
-- **Languages:** Python, C#, Lisp
-- **Frameworks & Libraries:** scikit-klearn, NumPy, SciPy, TensorFlow
-- **Databases:** MySQL, MariaDB
-- **Tools:** Git, Docker, Visual Studio Code 
-
-## 📈 GitHub Stats
-![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josueRdgz&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
-- **Email:** [josuerdgz.ramirez@gmail.com](mailto:josuerdgz.ramirez@gmail.com)
-
-## 🤝 Let's Connect
-Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
-
-Thanks for visiting my profile!
+My work focuses on high-performance backend systems, intelligent data processing, and modern frontend architectures.
 
 ---
 
-*This README was generated with ❤️ by Josue Rodriguez.*
+## 🧠 Core Focus
+
+- Artificial Intelligence & Applied Machine Learning
+- Scalable Backend Architecture (Django, Python)
+- Data Systems & Business Intelligence
+- Industrial & Enterprise Software Solutions
+- Full-Stack Development (React + API-Driven Systems)
+
+---
+
+## 🛠 Technical Stack
+
+### Languages
+Python · C# · SQL · Lisp · JavaScript
+
+### Backend & Frameworks
+Django · REST APIs · Odoo · FastAPI
+
+### AI & Data
+TensorFlow · scikit-learn · NumPy · SciPy · Data Modeling
+
+### Databases
+PostgreSQL · MySQL · MariaDB
+
+### DevOps & Tools
+Docker · Git · Linux · VS Code · CI/CD
+
+---
+
+## 📊 Current Work
+
+- Building API-driven product platforms with React + Django
+- Developing Business Intelligence solutions
+- Exploring advanced AI applications for enterprise environments
+- Optimizing system architecture for scalability and maintainability
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josueRdgz&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josueRdgz&layout=compact&hide_border=true)
+
+---
+
+## 🎯 Professional Vision
+
+My goal is to architect intelligent systems that integrate AI, automation, and scalable infrastructure to solve complex industrial and business problems.
+
+---
+
+## 📫 Contact
+
+Email: josuerdgz.ramirez@gmail.com  
+Open to collaboration in AI, enterprise systems, and advanced software engineering projects.
+
+---
+
+> “Build systems that scale. Design software that thinks.”
