@@ -1,13 +1,24 @@
-# Josue Rodriguez
-### Computer Scientist | AI Engineer | Full-Stack Developer
+<p align="center">
+  <img src="banner.png" alt="Josue Rodriguez Banner"/>
+</p>
 
-I design and build scalable systems combining Artificial Intelligence, data engineering, and enterprise software architecture.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=0EF7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Backend+Architect;Scalable+Systems+%26+Enterprise+Software;Data+Engineering+%7C+Intelligent+Automation" />
+</p>
 
-My work focuses on high-performance backend systems, intelligent data processing, and modern frontend architectures.
 
----
+<h2 align="center">Engineering Intelligent Systems at Scale</h2>
 
-## 🧠 Core Focus
+<p align="center">
+I design scalable architectures where Artificial Intelligence meets enterprise software.
+</p>
+
+<p align="center">
+From backend infrastructure to intelligent data pipelines,
+I build systems that are performant, resilient, and built for growth.
+</p>
+
+## 🧠 Engineering Focus
 
 - Artificial Intelligence & Applied Machine Learning
 - Scalable Backend Architecture (Django, Python)
@@ -62,20 +73,24 @@ My work focuses on high-performance backend systems, intelligent data processing
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📊 Current Work
+## 🌟 Featured Projects
 
-- Building API-driven product platforms with React + Django
-- Developing Business Intelligence solutions
-- Exploring advanced AI applications for enterprise environments
-- Optimizing system architecture for scalability and maintainability
+### 🔹 AI-Powered Business Analytics Platform
+Enterprise-grade analytics system using Django, PostgreSQL and ML models.
+
+### 🔹 Scalable E-Commerce API
+High-performance REST backend with JWT auth, async processing and Dockerized deployment.
+
+### 🔹 Intelligent Data Processing Engine
+Custom ML pipelines for enterprise decision support systems.
 
 ---
 
 ## 📈 GitHub Analytics
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=josueRdgz&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josueRdgz&layout=compact&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=josueRdgz&theme=transparent)
 
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🎯 Professional Vision
