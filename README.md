@@ -102,7 +102,7 @@ My goal is to architect intelligent systems that integrate AI, automation, and s
 
 ## 🖥️ CV DIRECT PDF Link
 
-Access the latest English PDF version directly [https://github.com/josueRdgz/mi-cv-react/CV_Josue_Rodriguez_EN.pdf](CV_Josue_Rodriguez_EN.pdf).
+Access the latest English PDF version directly [[https://github.com/josueRdgz/mi-cv-react/CV_Josue_Rodriguez_EN.pdf](https://github.com/josueRdgz/mi-cv-react/blob/main/CV_Josue_Rodriguez_EN.pdf)].
 
 ## 📫 Contact
 
